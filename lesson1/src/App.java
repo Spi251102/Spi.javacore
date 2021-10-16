@@ -4,7 +4,7 @@ public class App {
         person1.cannang = 69;
         person1.chieucao = 1.7;
 
-        System.out.println("\n person1 có chỉ số BMI kiểu void là: ");
+        System.out.print("\n person1 có chỉ số BMI kiểu void là: ");
         person1.tinhBMIvoid();
 
         System.out.println("\n person1 có chỉ số BMI kiểu double là: "+person1.tinhBMIdouble());
