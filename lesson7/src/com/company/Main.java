@@ -64,6 +64,7 @@ public class Main {
 
             default:
                 System.out.println("Không có lựa chọn này.");
+                break;
         }
     }
 }
